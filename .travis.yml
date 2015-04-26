@@ -70,7 +70,7 @@ script:
 notifications:
   recipients:
     - calebwherry@gmail.com
-    - robertofrances@gmail.com
+    - robert@robertdfrench.me
   email:
     on_success: always
     on_failure: always
